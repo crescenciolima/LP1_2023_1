@@ -19,7 +19,7 @@ Installation
 
 Clone the project
 
-        gitclone https://github.com/cretchas/LP1_2023_1.git
+        gitclone https://github.com/crescenciolima/LP1_2023_1.git
 
 Contributors
 ---------------------------
